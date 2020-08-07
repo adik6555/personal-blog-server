@@ -31,6 +31,6 @@ mongoose.connect(
 );
 
 //Start the server
-app.listen(3000, "localhost", () => {
+app.listen(3001, "localhost", () => {
   console.log("running");
 });
